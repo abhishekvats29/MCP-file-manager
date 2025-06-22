@@ -25,17 +25,6 @@ Users can upload, edit, delete, and view files — with file system operations p
 
 ---
 
-## 📁 Project Structure
-mcp-project/
-├── client/ # React frontend
-│ └── src/
-│ ├── App.js
-│ └── App.css
-├── server/ # Flask backend
-│ ├── app.py
-│ └── shared/
-│ └── uploaded-files/
-
 ## 🔗 API Endpoints (Flask)
 
 | Method | Endpoint            | Description             |

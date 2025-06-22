@@ -37,7 +37,7 @@ Users can upload, edit, delete, and view files — with file system operations p
 
 ## 📷 Demo Screenshot
 
-(You can upload your screenshot on GitHub and replace this URL)
+(![Image](https://github.com/user-attachments/assets/d5cd8635-b870-4c00-a5d2-5b434550db67))
 
 ## 👨‍💻 Author
 Abhishek Vats

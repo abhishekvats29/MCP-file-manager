@@ -41,7 +41,6 @@ Users can upload, edit, delete, and view files — with file system operations p
 
 ## 👨‍💻 Author
 Abhishek Vats
-GitHub • LinkedIn
 
 ## 📄 License
 This project is developed as part of a Full Stack Developer Assignment.
